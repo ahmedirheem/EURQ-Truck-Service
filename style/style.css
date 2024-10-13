@@ -471,7 +471,7 @@ header nav .call-btn {
 /* Contact Us Section */
 .contact {
   height: 100vh;
-  background-image: url('../assets/images/contact-banner.svg');
+  background-image: url('../assets/images/contact-banner.png');
   background-position: center;
   background-size: cover;
   display: flex;
